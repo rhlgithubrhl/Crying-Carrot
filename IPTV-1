@@ -1,185 +1,137 @@
 #EXTM3U
-#EXTINF:-1,beIN_SPORTS_1_Low
-http://mhiptv.com:8888/eldeeba7/564452002/16
-#EXTINF:-1,beIN_SPORTS_2_Low
-http://mhiptv.com:8888/eldeeba7/564452002/17
-#EXTINF:-1,beIN_SPORTS_3_Low
-http://mhiptv.com:8888/eldeeba7/564452002/18
-#EXTINF:-1,beIN_SPORTS_4_Low
-http://mhiptv.com:8888/eldeeba7/564452002/2391
-#EXTINF:-1,beIN_SPORTS_5_Low
-http://mhiptv.com:8888/eldeeba7/564452002/19
-#EXTINF:-1,beIN_SPORTS_6_Low
-http://mhiptv.com:8888/eldeeba7/564452002/20
-#EXTINF:-1,beIN_SPORTS_7_Low
-http://mhiptv.com:8888/eldeeba7/564452002/21
-#EXTINF:-1,beIN_SPORTS_8_Low
-http://mhiptv.com:8888/eldeeba7/564452002/22
-#EXTINF:-1,beIN_SPORTS_9_Low
-http://mhiptv.com:8888/eldeeba7/564452002/23
-#EXTINF:-1,beIN_SPORTS_10_Low
-http://mhiptv.com:8888/eldeeba7/564452002/24
-#EXTINF:-1,beIN_SPORTS_11_Low
-http://mhiptv.com:8888/eldeeba7/564452002/25
-#EXTINF:-1,beIN_SPORTS_12_Low
-http://mhiptv.com:8888/eldeeba7/564452002/26
-#EXTINF:-1,beIN_SPORTS_1_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4898
-#EXTINF:-1,beIN_SPORTS_2_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4899
-#EXTINF:-1,beIN_SPORTS_3_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4900
-#EXTINF:-1,beIN_SPORTS_4_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4901
-#EXTINF:-1,beIN_SPORTS_5_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4902
-#EXTINF:-1,beIN_SPORTS_6_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4903
-#EXTINF:-1,beIN_SPORTS_7_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4904
-#EXTINF:-1,beIN_SPORTS_8_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4905
-#EXTINF:-1,beIN_SPORTS_9_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4906
-#EXTINF:-1,beIN_SPORTS_10_512K
-http://mhiptv.com:8888/eldeeba7/564452002/4907
-#EXTINF:-1,beIN_SPORTS_1SD
-http://mhiptv.com:8888/eldeeba7/564452002/2456
-#EXTINF:-1,beIN_SPORTS_2SD
-http://mhiptv.com:8888/eldeeba7/564452002/2457
-#EXTINF:-1,beIN_SPORTS_3SD
-http://mhiptv.com:8888/eldeeba7/564452002/2458
-#EXTINF:-1,beIN_SPORTS_4SD
-http://mhiptv.com:8888/eldeeba7/564452002/2459
-#EXTINF:-1,beIN_SPORTS_5SD
-http://mhiptv.com:8888/eldeeba7/564452002/2460
-#EXTINF:-1,beIN_SPORTS_6SD
-http://mhiptv.com:8888/eldeeba7/564452002/2461
-#EXTINF:-1,beIN_SPORTS_7SD
-http://mhiptv.com:8888/eldeeba7/564452002/2462
-#EXTINF:-1,beIN_SPORTS_8SD
-http://mhiptv.com:8888/eldeeba7/564452002/2463
-#EXTINF:-1,beIN_SPORTS_9SD
-http://mhiptv.com:8888/eldeeba7/564452002/2464
-#EXTINF:-1,beIN_SPORTS_10SD
-http://mhiptv.com:8888/eldeeba7/564452002/2465
-#EXTINF:-1,beIN_SPORTS_1_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3652
-#EXTINF:-1,beIN_SPORTS_2_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3651
-#EXTINF:-1,beIN_SPORTS_3_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3650
-#EXTINF:-1,beIN_SPORTS_4_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3649
-#EXTINF:-1,beIN_SPORTS_5_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3648
-#EXTINF:-1,beIN_SPORTS_6_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3647
-#EXTINF:-1,beIN_SPORTS_7_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3646
-#EXTINF:-1,beIN_SPORTS_8_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3645
-#EXTINF:-1,beIN_SPORTS_9_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3644
-#EXTINF:-1,beIN_SPORTS_10_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3653
-#EXTINF:-1,beIN_SPORTS_11_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3844
-#EXTINF:-1,beIN_SPORTS_12_VEGA
-http://mhiptv.com:8888/eldeeba7/564452002/3843
-#EXTINF:-1,beIN_SPORTS_1HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2442
-#EXTINF:-1,beIN_SPORTS_2HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2443
-#EXTINF:-1,beIN_SPORTS_3HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2444
-#EXTINF:-1,beIN_SPORTS_4HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2445
-#EXTINF:-1,beIN_SPORTS_5HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2446
-#EXTINF:-1,beIN_SPORTS_6HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2447
-#EXTINF:-1,beIN_SPORTS_7HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2448
-#EXTINF:-1,beIN_SPORTS_8HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2449
-#EXTINF:-1,beIN_SPORTS_9HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2454
-#EXTINF:-1,beIN_SPORTS_10HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/2455
-#EXTINF:-1,beIN_SPORTS_11HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/3246
-#EXTINF:-1,beIN_SPORTS_12HD_1080p
-http://mhiptv.com:8888/eldeeba7/564452002/3250
-#EXTINF:-1,beIN_SPORTS_1_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3170
-#EXTINF:-1,beIN_SPORTS_2_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3171
-#EXTINF:-1,beIN_SPORTS_3_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3172
-#EXTINF:-1,beIN_SPORTS_4_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3173
-#EXTINF:-1,beIN_SPORTS_5_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3174
-#EXTINF:-1,beIN_SPORTS_6_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3175
-#EXTINF:-1,beIN_SPORTS_7_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3176
-#EXTINF:-1,beIN_SPORTS_8_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3177
-#EXTINF:-1,beIN_SPORTS_9_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3178
-#EXTINF:-1,beIN_SPORTS_10_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3179
-#EXTINF:-1,beIN_SPORTS_11_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3613
-#EXTINF:-1,beIN_SPORTS_12_4K
-http://mhiptv.com:8888/eldeeba7/564452002/3614
-#EXTINF:-1,beIN_Sport_1_H265
-http://mhiptv.com:8888/eldeeba7/564452002/7029
-#EXTINF:-1,beIN_Sport_2_H265
-http://mhiptv.com:8888/eldeeba7/564452002/7047
-#EXTINF:-1,beIN_Sport_3_H265
-http://mhiptv.com:8888/eldeeba7/564452002/7048
-#EXTINF:-1,beIN_Sport_4_H265
-http://mhiptv.com:8888/eldeeba7/564452002/7049
-#EXTINF:-1,beIN_Sport_5_H265
-http://mhiptv.com:8888/eldeeba7/564452002/7050
-#EXTINF:-1,beIN_Sport_6_H265
-http://mhiptv.com:8888/eldeeba7/564452002/7051
-#EXTINF:-1,beIN_Sport_7_H265
-http://mhiptv.com:8888/eldeeba7/564452002/7052
-#EXTINF:-1,beIN_Sport_8_H265
-http://mhiptv.com:8888/eldeeba7/564452002/7053
-#EXTINF:-1,beIN_Sport_9_H265
-http://mhiptv.com:8888/eldeeba7/564452002/9384
-#EXTINF:-1,beIN_Sport_10_H265  
-http://mhiptv.com:8888/eldeeba7/564452002/9383
-#EXTINF:-1,beIN_Max_1_Low
-http://mhiptv.com:8888/eldeeba7/564452002/5952
-#EXTINF:-1,beIN_Max_2_Low
-http://mhiptv.com:8888/eldeeba7/564452002/5953
-#EXTINF:-1,beIN_Max_1_SD
-http://mhiptv.com:8888/eldeeba7/564452002/5467
-#EXTINF:-1,beIN_Max_2_SD
-http://mhiptv.com:8888/eldeeba7/564452002/5468
-#EXTINF:-1,beIN_Max_1_HD
-http://mhiptv.com:8888/eldeeba7/564452002/3607
-#EXTINF:-1,beIN_Max_2_HD
-http://mhiptv.com:8888/eldeeba7/564452002/3608
-#EXTINF:-1,beIN_Max_3_HD
-http://mhiptv.com:8888/eldeeba7/564452002/11213
-#EXTINF:-1,beIN_Max_4_HD
-http://mhiptv.com:8888/eldeeba7/564452002/11214
-#EXTINF:-1,AD-Sport-1HD
-http://mhiptv.com:8888/eldeeba7/564452002/2530
-#EXTINF:-1,AD-Sport-2HD
-http://mhiptv.com:8888/eldeeba7/564452002/2531
-#EXTINF:-1,AD-Sport-3HD
-http://mhiptv.com:8888/eldeeba7/564452002/2532
-#EXTINF:-1,AD-Sport-4HD
-http://mhiptv.com:8888/eldeeba7/564452002/2533
-#EXTINF:-1,AD-Sport-5HD
-http://mhiptv.com:8888/eldeeba7/564452002/2534
-#EXTINF:-1,AD-Sport-6HD
-http://mhiptv.com:8888/eldeeba7/564452002/4512
+#EXTINF:-1,UK:BBC 1 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1495
+#EXTINF:-1,UK:BBC 2 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1496
+#EXTINF:-1,UK:BBC 3 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1497
+#EXTINF:-1,UK:BBC 4 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1498
+#EXTINF:-1,UK:BBC News
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6922
+#EXTINF:-1,UK:CBBC
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6920
+#EXTINF:-1,UK:ITV 1 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1505
+#EXTINF:-1,UK:ITV 2 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1506
+#EXTINF:-1,UK:ITV 3 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1507
+#EXTINF:-1,UK:ITV 4
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6923
+#EXTINF:-1,UK:ITV BE HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1508
+#EXTINF:-1,UK:E4
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6928
+#EXTINF:-1,UK:UTV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6930
+#EXTINF:-1,UK:FILM 4
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6927
+#EXTINF:-1,UK:MORE 4
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6926
+#EXTINF:-1,UK:COMEDY CENTRAL
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6950
+#EXTINF:-1,UK:CHANNEL 4
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6924
+#EXTINF:-1,UK:CHANNEL 5
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6925
+#EXTINF:-1,UK:ALIBI
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6947
+#EXTINF:-1,UK:DAVE
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6951
+#EXTINF:-1,UK:E!
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6948
+#EXTINF:-1,UK:QUEST
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6962
+#EXTINF:-1,UK:TLC
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6963
+#EXTINF:-1,UK:SKY ONE HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/7427
+#EXTINF:-1,UK:FOX NEWS
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6933
+#EXTINF:-1,UK:EURONEWS
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6934
+#EXTINF:-1,UK:BLOOMBERG
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6939
+#EXTINF:-1,UK:DISNEY XD HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1504
+#EXTINF:-1,UK:NICKELODEON HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1503
+#EXTINF:-1,UK:CARTOON NETWORK HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1502
+#EXTINF:-1,UK:ANIMAL PLANET
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6959
+#EXTINF:-1,UK:TRAVEL CHANNEL
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6958
+#EXTINF:-1,UK:FOOD NETWORK
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6964
+#EXTINF:-1,UK:HISTORY HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1513
+#EXTINF:-1,UK:NAT GEO WILD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6961
+#EXTINF:-1,UK:DISCOVERY
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6954
+#EXTINF:-1,UK:DISCOVERY SCIENCE
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6952
+#EXTINF:-1,UK:CRIME & INVERSTIGATION
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6949
+#EXTINF:-1,UK:INVESTIGATION DISCOVERY
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6955
+#EXTINF:-1,UK:SKY ARTS 1
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6945
+#EXTINF:-1,UK:SKY THRILLER HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1490
+#EXTINF:-1,UK:SKY NEWS HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1499
+#EXTINF:-1,UK:SKY ATLANTIC
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/6946
+#EXTINF:-1,UK:CBS REALITY HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1509
+#EXTINF:-1,UK:CBS DRAMA HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1510
+#EXTINF:-1,UK:CBS ACTION JUSTICE HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1511
+#EXTINF:-1,UK:MOVIES THRILLER HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1514
+#EXTINF:-1,UK:MOVIES DRAMA HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1515
+#EXTINF:-1,UK:MOVIES DISNEY HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1516
+#EXTINF:-1,UK:MOVIES COMEDY HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1517
+#EXTINF:-1,UK:MOVIES ACTION HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1518
+#EXTINF:-1,UK:BT SPORT 1
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/4758
+#EXTINF:-1,UK:BT SPORT 2
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/4759
+#EXTINF:-1,UK:BT SPORT 3
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/4760
+#EXTINF:-1,UK:BT SPORT ESPN HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1512
+#EXTINF:-1,UK:SETANTA SPORTS HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1501
+#EXTINF:-1,UK:SKY SPORTS ARENA HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1016
+#EXTINF:-1,UK:SKY SPORT CRICKET HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1017
+#EXTINF:-1,UK:SKY SPORTS ACTION HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1018
+#EXTINF:-1,UK:SKY SPORTS GOLF HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1019
+#EXTINF:-1,UK:Sky Sport Main Event HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/22754
+#EXTINF:-1,UK:Sky Sports Premier League
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/22755
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1020
+#EXTINF:-1,UK | CNN INT.
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/32670
+#EXTINF:-1,UK | CNBC
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/32697
+#EXTINF:-1,UK | PREMIERE SPORTS
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/32743
+#EXTINF:-1,UK | EVELEVEN SPORTS 1
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/32749
+#EXTINF:-1,UK | SETANTA/PREMIERE SPORTS
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/32754
